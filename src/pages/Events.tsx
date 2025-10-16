@@ -13,7 +13,7 @@ const Events = () => {
       venue: "Nashik",
       description: "National level competition showcasing talent from across the country in various academic disciplines.",
       category: "Competition",
-      participants: "100+ students",
+      participants: "10+ students",
       ageGroup: "All ages",
       registration: "Completed",
       highlights: ["Multi-category competitions", "National recognition", "Grand prizes", "Networking opportunities"]
@@ -25,7 +25,7 @@ const Events = () => {
       venue: "Nashik",
       description: "Regional level abacus competition showcasing speed calculation and mental math skills.",
       category: "Competition",
-      participants: "60+ students",
+      participants: "10+ students",
       ageGroup: "7-12 years",
       registration: "Completed",
       highlights: ["Regional recognition", "Speed calculation rounds", "Mental math challenges", "Trophy and medals ceremony"]
@@ -48,7 +48,7 @@ const Events = () => {
       date: "June 2025",
       description: "National level competition showcasing talent from across the country in various academic disciplines.",
       images: 9,
-      participants: "100+ students",
+      participants: "10+ students",
       hasGallery: true
     },
     {
@@ -57,7 +57,7 @@ const Events = () => {
       date: "November 2024",
       description: "Regional level abacus competition held with great success, showcasing exceptional calculation skills.",
       images: 4,
-      participants: "60+ students",
+      participants: "10+ students",
       hasGallery: true
     },    
     {
@@ -66,7 +66,7 @@ const Events = () => {
       date: "January 2024",
       description: "Comprehensive academic review sessions with personalized feedback and development planning.",
       images: 3,
-      participants: "300+ parents",
+      participants: "50+ parents",
       hasGallery: true
     }
   ];
