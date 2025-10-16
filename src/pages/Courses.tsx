@@ -198,7 +198,7 @@ const Courses = () => {
               Why Our Courses Stand Out
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Every course at Hiran EduPro Academy is designed with student success in mind
+              Every course at Hiran EduPro Academyy is designed with student success in mind
             </p>
           </div>
 
