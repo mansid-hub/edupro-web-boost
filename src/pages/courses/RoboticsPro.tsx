@@ -219,7 +219,7 @@ const RoboticsPro = () => {
           <div className="grid md:grid-cols-2 gap-6">
             <Card className="card-enhanced p-6">
               <CardHeader>
-                <Badge className="w-fit">Month 1-2</Badge>
+                <Badge className="w-fit">Level 1-3</Badge>
                 <CardTitle>Fundamentals & Building</CardTitle>
               </CardHeader>
               <CardContent>
@@ -236,7 +236,7 @@ const RoboticsPro = () => {
 
             <Card className="card-enhanced p-6">
               <CardHeader>
-                <Badge className="w-fit">Month 3-4</Badge>
+                <Badge className="w-fit">Level 4-6</Badge>
                 <CardTitle>Advanced & Projects</CardTitle>
               </CardHeader>
               <CardContent>
