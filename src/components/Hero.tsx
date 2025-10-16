@@ -6,7 +6,7 @@ import heroImage from "@/assets/hero-education.jpg";
 
 const Hero = () => {
   const whatsappNumber = "+918208368355";
-  const whatsappMessage = "Hi! I'm interested in learning more about courses at Hiran EduPro Academy.";
+  const whatsappMessage = "Hi! I'm interested in learning more about courses at Hiran EduPro Academyy.";
 
   return (
     <section className="relative min-h-[90vh] flex items-center bg-gradient-subtle overflow-hidden">
@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="absolute inset-0 z-0">
         <img
           src={heroImage}
-          alt="Students learning at Hiran EduPro Academy"
+          alt="Students learning at Hiran EduPro Academyy"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-hero opacity-90"></div>
