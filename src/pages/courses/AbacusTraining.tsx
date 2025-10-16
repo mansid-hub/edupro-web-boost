@@ -249,7 +249,7 @@ const AbacusTraining = () => {
 
             <Card className="card-enhanced p-6">
               <CardHeader>
-                <Badge className="w-fit">Level 7-9</Badge>
+                <Badge className="w-fit">Level 7-8</Badge>
                 <CardTitle>Advanced</CardTitle>
               </CardHeader>
               <CardContent>
