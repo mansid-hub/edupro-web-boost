@@ -47,7 +47,7 @@ const EventGallery = () => {
       title: "Regional Abacus Competition",
       date: "November 2024",
       venue: "Naashik",
-      participants: "60+ students",
+      participants: "10+ students",
       description: "Regional level abacus competition held with great success, showcasing exceptional calculation skills and mental math abilities.",
       storageKey: "event-gallery-regional-abacus-competition",
       defaultImages: [
@@ -61,7 +61,7 @@ const EventGallery = () => {
       title: "National Competition Summer 2025",
       date: "June 2025",
       venue: "Nashik",
-      participants: "100+ students",
+      participants: "10+ students",
       description: "National level competition showcasing talent from across the country in various academic disciplines.",
       storageKey: "event-gallery-national-competition-summer",
       defaultImages: [
@@ -80,7 +80,7 @@ const EventGallery = () => {
       title: "Class Event 2025",
       date: "June 2025",
       venue: "Nashik",
-      participants: "100+ students",
+      participants: "50+ students",
       description: "Interactive Abacus sessions for enhancing mental math, concentration, and problem-solving skills with personalized guidance.",
       storageKey: "event-gallery-class-event",
       defaultImages: [
@@ -99,7 +99,7 @@ const EventGallery = () => {
       title: "Parent-Teacher Conference",
       date: "January 2024",
       venue: "All Branches",
-      participants: "300+ parents",
+      participants: "50+ parents",
       description: "Comprehensive academic review sessions with personalized feedback and development planning.",
       storageKey: "event-gallery-parent-teacher-conference"
     }
