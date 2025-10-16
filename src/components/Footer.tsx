@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { MapPin, Phone, Mail, MessageCircle, Facebook, Instagram, Youtube } from "lucide-react";
-import logoImage from "@/assets/hiran-logo.jpeg";
+import logoImage from "@/assets/hiran-logo.jpg";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -15,7 +15,7 @@ const Footer = () => {
             <div className="flex items-center space-x-3">
               <img 
                 src={logoImage} 
-                alt="Hiran EduPro Academy Logo" 
+                alt="Hiran EduPro Academyy Logo" 
                 className="h-12 w-12 object-contain"
               />
               <div>
