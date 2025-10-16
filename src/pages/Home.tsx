@@ -67,7 +67,7 @@ const Home = () => {
     {
       name: "Govind Nagar Branch",
       address: "Plot no 14 Rambagh Colony, Bhujbal Farm Road, Behind Runghta Bela Vista Govind Nagar, Nashik, Maharashtra-401203",
-      phone: ["+91-8208368355", "+91-9321456780"],
+      phone: "+91-8208368355",
       timings: "Mon-Fri: 9:00 AM - 7:00 PM | Sat-Sun: 9:00 AM - 6:00 PM",
       studentsCount: "200+",
       features: ["Modern classrooms", "Recreation area", "Parents waiting room"],
@@ -77,7 +77,7 @@ const Home = () => {
     {
       name: "Manmad Branch", 
       address: "First floor Hemsuraj kirana, Near Sundar Selection Aajad Road, Manmad, Maharashtra 423104",
-      phone: ["+91-8208368355", "+91-9321456780"],
+      phone: "+91-8208368355",
       timings: "Mon-Thru: 9:00 AM - 7:00 PM | Sat-Sun: 10:00 AM - 3:00 PM | Friday: Holiday",
       studentsCount: "150+",
       features: ["Smart boards", "CCTV Surveillance", "Activity room"],

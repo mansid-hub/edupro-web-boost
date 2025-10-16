@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu, Phone, MessageCircle } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
-import logoImage from "@/assets/hiran-logo.jpg";
+import logoImage from "@/assets/hiran-logo.jpeg";
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -32,11 +32,11 @@ const Navigation = () => {
           <Link to="/" className="flex items-center space-x-3">
             <img 
               src={logoImage} 
-              alt="Hiran EduPro Academyy Logo" 
+              alt="Hiran EduPro Academy Logo" 
               className="h-12 w-12 object-contain"
             />
             <div className="hidden sm:block">
-              <h1 className="text-xl font-bold text-primary">Hiran EduPro Academyy</h1>
+              <h1 className="text-xl font-bold text-primary">Hiran EduPro Academy</h1>
               <p className="text-xs text-muted-foreground">Learning Beyond Limits</p>
             </div>
           </Link>
