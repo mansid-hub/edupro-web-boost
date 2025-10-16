@@ -219,7 +219,7 @@ const MnemonicScience = () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             <Card className="card-enhanced p-6">
               <CardHeader>
-                <Badge className="w-fit">Month 1-2</Badge>
+                <Badge className="w-fit">Level 1-2</Badge>
                 <CardTitle>Memory Foundations</CardTitle>
               </CardHeader>
               <CardContent>
@@ -236,7 +236,7 @@ const MnemonicScience = () => {
 
             <Card className="card-enhanced p-6">
               <CardHeader>
-                <Badge className="w-fit">Month 3-4</Badge>
+                <Badge className="w-fit">Level 3-4</Badge>
                 <CardTitle>Advanced Techniques</CardTitle>
               </CardHeader>
               <CardContent>
@@ -253,7 +253,7 @@ const MnemonicScience = () => {
 
             <Card className="card-enhanced p-6">
               <CardHeader>
-                <Badge className="w-fit">Month 5-6</Badge>
+                <Badge className="w-fit">Level 5</Badge>
                 <CardTitle>Mastery & Practice</CardTitle>
               </CardHeader>
               <CardContent>
