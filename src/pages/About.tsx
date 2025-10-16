@@ -160,7 +160,7 @@ const About = () => {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-foreground mb-4">Our Core Values</h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              The principles that guide everything we do at Hiran EduPro Academy
+              The principles that guide everything we do at Hiran EduPro Academyy
             </p>
           </div>
 
