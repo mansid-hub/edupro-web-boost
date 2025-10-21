@@ -142,7 +142,7 @@ const Courses = () => {
   ];
 
   const whatsappNumber = "+918208368355";
-  const whatsappMessage = "Hi! I'd like to know more about the courses available at Hiran EduPro Academy.";
+  const whatsappMessage = "Hi! I'd like to know more about the courses available at Hiran EduPro Academyy.";
 
   return (
     <main className="pt-16">
@@ -307,7 +307,7 @@ const Courses = () => {
                   </Link>
                   
                   <a
-                    href={`https://wa.me/${whatsappNumber}?text=${encodeURIComponent("I'd like to book a free trial class at Hiran EduPro Academy.")}`}
+                    href={`https://wa.me/${whatsappNumber}?text=${encodeURIComponent("I'd like to book a free trial class at Hiran EduPro Academyy.")}`}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
