@@ -46,7 +46,7 @@ const EventGallery = () => {
     "regional-abacus-2024": {
       title: "Regional Abacus Competition",
       date: "November 2024",
-      venue: "Naashik",
+      venue: "Nashik",
       participants: "10+ students",
       description: "Regional level abacus competition held with great success, showcasing exceptional calculation skills and mental math abilities.",
       storageKey: "event-gallery-regional-abacus-competition",
