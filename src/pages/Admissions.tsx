@@ -282,7 +282,7 @@ Message: ${formData.message}
                         onChange={(e) => setFormData({...formData, age: e.target.value})}
                         placeholder="Age in years"
                         min="4"
-                        max="18"
+                        max="35"
                       />
                     </div>
                     
