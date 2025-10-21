@@ -311,6 +311,7 @@ Message: ${formData.message}
                           <SelectItem value="abacus">Abacus Training</SelectItem>
                           <SelectItem value="mnemonic">Mnemonic Science</SelectItem>
                           <SelectItem value="phonics">Phonics</SelectItem>
+                          <SelectItem value="phonics">Handwriting</SelectItem>
                         </SelectContent>
                       </Select>
                     </div>
