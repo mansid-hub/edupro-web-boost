@@ -85,18 +85,17 @@ const BranchCard = ({
             View Details
           </Button>
         </Link>
-        
         <a
-          href={`https://wa.me/${phone.replace(/[^\d]/g, '')}?text=${encodeURIComponent(whatsappMessage)}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex-1"
-        >
-          <Button className="w-full bg-gradient-secondary hover:opacity-90 gap-2">
-            <MessageCircle className="h-4 w-4" />
-            WhatsApp
-          </Button>
-        </a>
+  href={`https://wa.me/${String(phone).replace(/[^\d]/g, '')}?text=${encodeURIComponent(whatsappMessage)}`}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex-1"
+>
+  <Button className="w-full bg-gradient-secondary hover:opacity-90 gap-2">
+    <MessageCircle className="h-4 w-4" />
+    WhatsApp
+  </Button>
+</a>        
       </CardFooter>
     </Card>
   );
