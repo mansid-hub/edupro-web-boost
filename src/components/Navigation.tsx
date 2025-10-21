@@ -36,7 +36,7 @@ const Navigation = () => {
               className="h-12 w-12 object-contain"
             />
             <div className="hidden sm:block">
-              <h1 className="text-xl font-bold text-primary">Hiran EduPro Academy</h1>
+              <h1 className="text-xl font-bold text-primary">Hiran EduPro Academyy</h1>
               <p className="text-xs text-muted-foreground">Learning Beyond Limits</p>
             </div>
           </Link>
