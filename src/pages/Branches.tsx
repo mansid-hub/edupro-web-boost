@@ -136,7 +136,15 @@ const Branches = () => {
                         <MapPin className="h-5 w-5 mt-0.5 text-secondary" />
                         <div>
                           <div className="font-medium">Address</div>
-                          <div className="text-white/80 text-sm">{branch.address}</div>
+                          <div className="text-white/80 text-sm">
+  {Array.isArray(branch.phone)
+    ? branch.phone.map((num, i) => (
+        <a key={i} href={`tel:${num}`} className="hover:underline">
+          {num}{i < branch.phone.length - 1 ? ", " : ""}
+        </a>
+      ))
+    : <a href={`tel:${branch.phone}`}>{branch.phone}</a>}
+</div>
                         </div>
                       </div>
                       
