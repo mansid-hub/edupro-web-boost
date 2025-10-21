@@ -46,11 +46,11 @@ const TermsConditions = () => {
                 
                 <h3 className="text-lg font-semibold text-primary mt-6">Age Requirements</h3>
                 <ul className="list-disc list-inside space-y-2">
-                  <li>Abacus Training: Ages 5-14</li>
-                  <li>Vedic Mathematics: Ages 8-16</li>
-                  <li>Robotics: Ages 7-15</li>
-                  <li>Mnemonic Science: Ages 6-16</li>
-                  <li>Phonics & Reading: Ages 3-8</li>
+                  <li>Abacus Training: Grade Jr.Kg.-Std.7th </li>
+                  <li>Vedic Mathematics: Grade Std. 7th+</li>
+                  <li>Robotics: Grade Std. 1st+</li>
+                  <li>Mnemonic Science: Grade 1st+</li>
+                  <li>Phonics & Reading: Grade UKG.+</li>
                 </ul>
               </div>
             </section>
@@ -103,7 +103,7 @@ const TermsConditions = () => {
               <div className="space-y-4 text-muted-foreground">
                 <p>
                   All course materials, including but not limited to lesson plans, worksheets, videos, 
-                  and teaching methodologies, are the intellectual property of Hiran EduPro Academy. 
+                  and teaching methodologies, are the intellectual property of Hiran EduPro Academyy. 
                   Students and parents may not:
                 </p>
                 <ul className="list-disc list-inside space-y-2">
@@ -153,7 +153,7 @@ const TermsConditions = () => {
               <h2 className="text-2xl font-semibold text-primary mb-4">Changes to Terms</h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Hiran EduPro Academy reserves the right to modify these terms and conditions at any time. 
+                  Hiran EduPro Academyy reserves the right to modify these terms and conditions at any time. 
                   Changes will be communicated to enrolled students and parents via email or notice. 
                   Continued enrollment after notification constitutes acceptance of the revised terms.
                 </p>
