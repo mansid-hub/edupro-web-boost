@@ -55,9 +55,20 @@ const BranchCard = ({
         <div className="grid grid-cols-1 gap-3">
           <div className="flex items-center space-x-2 text-sm">
             <Phone className="h-4 w-4 text-muted-foreground" />
-            <a href={`tel:${phone}`} className="text-primary hover:underline">
-              {Array.isArray(phone) ? phone.join(", ") : phone}
-            </a>
+            {Array.isArray(phone)
+                ? phone.map((num, i) => (
+                    <span key={i}>
+                      <a href={`tel:${num}`} className="text-primary hover:underline">
+                        {num}
+                      </a>
+                      {i !== phone.length - 1 && <span>, </span>}
+                    </span>
+                  ))
+                : (
+                    <a href={`tel:${phone}`} className="text-primary hover:underline">
+                      {phone}
+                    </a>
+                  )}
           </div>
           
           <div className="flex items-center space-x-2 text-sm">
