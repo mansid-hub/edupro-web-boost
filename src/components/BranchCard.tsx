@@ -25,7 +25,7 @@ const BranchCard = ({
   slug,
   isPopular = false 
 }: BranchCardProps) => {
-  const whatsappMessage = `Hi! I'm interested in visiting the ${name} branch of Hiran EduPro Academy. Please provide more details.`;
+  const whatsappMessage = `Hi! I'm interested in visiting the ${name} branch of Hiran EduPro Academyy. Please provide more details.`;
 
   return (
     <Card className="card-enhanced group relative">
