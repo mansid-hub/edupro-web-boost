@@ -144,7 +144,9 @@ const Branches = () => {
                         <Phone className="h-5 w-5 text-secondary" />
                         <div>
                           <div className="font-medium">Contact</div>
-                          <div className="text-white/80 text-sm">{branch.phone}</div>
+                          <div className="text-white/80 text-sm">
+                              {Array.isArray(branch.phone) ? branch.phone.join(", ") : branch.phone}
+                          </div>
                         </div>
                       </div>
                       
