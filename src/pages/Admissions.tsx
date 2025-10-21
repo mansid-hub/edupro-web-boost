@@ -330,7 +330,7 @@ Message: ${formData.message}
                   <div className="flex items-center space-x-2">
                     <Checkbox id="terms" required />
                     <Label htmlFor="terms" className="text-sm">
-                      I agree to be contacted by Hiran EduPro Academy regarding admission details
+                      I agree to be contacted by Hiran EduPro Academyy regarding admission details
                     </Label>
                   </div>
 
