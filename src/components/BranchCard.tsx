@@ -56,7 +56,7 @@ const BranchCard = ({
           <div className="flex items-center space-x-2 text-sm">
             <Phone className="h-4 w-4 text-muted-foreground" />
             <a href={`tel:${phone}`} className="text-primary hover:underline">
-              {phone}
+              {Array.isArray(phone) ? phone.join(", ") : phone}
             </a>
           </div>
           
