@@ -290,7 +290,7 @@ Message: ${formData.message}
                     <div className="text-center">
                       <div className="font-semibold mb-2">Need Immediate Help?</div>
                       <a
-                        href="https://wa.me/+918208368355?text=I need immediate assistance regarding Hiran EduPro Academy"
+                        href="https://wa.me/+918208368355?text=I need immediate assistance regarding Hiran EduPro Academyy"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
