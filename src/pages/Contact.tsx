@@ -457,7 +457,7 @@ Message: ${formData.message}
               <MapPin className="h-20 w-20 text-primary mx-auto mb-6" />
               <h3 className="text-2xl font-bold mb-4">Location Map Integration</h3>
               <p className="text-muted-foreground mb-8 max-w-2xl mx-auto">
-                We're working on integrating interactive maps for all our branches. 
+                We're working on integrating interactive maps for our Govind nagar branch. 
                 For now, please use the contact details above or call us for precise directions 
                 to any of our locations.
               </p>
