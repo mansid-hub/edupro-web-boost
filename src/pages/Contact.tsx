@@ -462,14 +462,34 @@ Message: ${formData.message}
                 to any of our locations.
               </p>
               
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Button className="bg-gradient-primary hover:opacity-90">
-                  Get Directions via Phone
-                </Button>
-                <Button variant="outline">
-                  Download Location Details
-                </Button>
-              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+  {/* Govind Nagar Branch Map */}
+  <div className="w-full h-64 rounded-xl overflow-hidden shadow-md">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30249.05428097821!2d73.760194!3d19.997453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeba4baac8db5%3A0x7b69b3fcbf7ea6b7!2sGovind%20Nagar%2C%20Nashik%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1700000000000"
+      className="w-full h-full bg-gray-200"
+      style={{ border: 0 }}
+      allowFullScreen={true}
+      loading="lazy"
+      referrerPolicy="no-referrer-when-downgrade"
+      title="Govind Nagar Branch Map"
+    />
+  </div>
+
+  {/* Manmad Branch Map */}
+  <div className="w-full h-64 rounded-xl overflow-hidden shadow-md">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30298.502954755953!2d74.4303698!3d20.2553429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdcee8289d10c7f%3A0x979d649d98df3262!2sManmad%2C%20Maharashtra%20423104!5e0!3m2!1sen!2sin!4v1700000001000"
+      className="w-full h-full bg-gray-200"
+      style={{ border: 0 }}
+      allowFullScreen={true}
+      loading="lazy"
+      referrerPolicy="no-referrer-when-downgrade"
+      title="Manmad Branch Map"
+    />
+  </div>
+</div>
+
             </CardContent>
           </Card>
         </div>
