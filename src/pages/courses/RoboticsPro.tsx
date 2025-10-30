@@ -7,7 +7,7 @@ import roboticsImg from "@/assets/robotics-pro.jpg";
 
 const RoboticsPro = () => {
   const whatsappNumber = "+918208368355";
-  const whatsappMessage = "Hi! I'd like to know more about the Robotics course at Hiran EduPro Academy.";
+  const whatsappMessage = "Hi! I'd like to know more about the Robotics course at Hiran EduPro Academyy.";
 
   return (
     <main className="pt-16">
