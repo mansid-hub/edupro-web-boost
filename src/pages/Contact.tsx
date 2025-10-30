@@ -478,9 +478,8 @@ Message: ${formData.message}
 
   {/* Manmad Branch Map */}
   <div className="w-full h-64 rounded-xl overflow-hidden shadow-md">
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30298.502954755953!2d74.4303698!3d20.2553429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdcee8289d10c7f%3A0x979d649d98df3262!2sManmad%2C%20Maharashtra%20423104!5e0!3m2!1sen!2sin!4v1700000001000"
-      className="w-full h-full bg-gray-200"
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3743.134569801428!2d74.43814447389057!3d20.253253013964834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdc2552cf211283%3A0xaffa31f395666b3a!2sHiran&#39;s%20Proactive%20Abacus!5e0!3m2!1sen!2sin!4v1761814801837!5m2!1sen!2sin" 
       style={{ border: 0 }}
       allowFullScreen={true}
       loading="lazy"
