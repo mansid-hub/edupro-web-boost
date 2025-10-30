@@ -279,9 +279,11 @@ const Branches = () => {
                     Get Directions
                   </Button>
                 </Link>
-                <Button variant="outline">
-                  Call Nearest Branch
-                </Button>
+                <Link to="/contact">
+                  <Button variant="outline">
+                    Call Nearest Branch
+                  </Button>
+                </Link>
               </div>
             </CardContent>
           </Card>
