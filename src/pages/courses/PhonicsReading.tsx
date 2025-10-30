@@ -7,7 +7,7 @@ import phonicsImg from "@/assets/phonics-course.png";
 
 const PhonicsReading = () => {
   const whatsappNumber = "+918208368355";
-  const whatsappMessage = "Hi! I'd like to know more about the Phonics course at Hiran EduPro Academy.";
+  const whatsappMessage = "Hi! I'd like to know more about the Phonics course at Hiran EduPro Academyy.";
 
   return (
     <main className="pt-16">
