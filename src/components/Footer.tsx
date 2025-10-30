@@ -138,8 +138,8 @@ const Footer = () => {
               
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary" />
-                <a href="mailto:info@hiranedupro.com" className="text-muted-foreground hover:text-primary transition-colors">
-                  info@hiranedupro.com
+                <a href="mailto:contact@hiraneduprocademy.in" className="text-muted-foreground hover:text-primary transition-colors">
+                  contact@hiraneduproacademy.in
                 </a>
               </div>
               
