@@ -32,7 +32,7 @@ const CourseCard = ({
       <div className="relative">
         <img
           src={image}
-          alt={`${title} course at Hiran EduPro Academy`}
+          alt={`${title} course at Hiran EduPro Academyy`}
           className="w-full h-48 object-cover transition-transform group-hover:scale-105"
         />
         <div className="absolute top-4 left-4">
