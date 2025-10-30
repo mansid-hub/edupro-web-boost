@@ -140,7 +140,7 @@ Message: ${formData.message}
             </h1>
             <p className="text-xl text-white/90 mb-8 leading-relaxed">
               Simple admission process, expert guidance, and personalized learning paths. 
-              Join 500+ successful students at Hiran EduPro Academy.
+              Join 500+ successful students at Hiran EduPro Academyy.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
