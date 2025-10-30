@@ -416,7 +416,7 @@ Message: ${formData.message}
                   
                   <div className="flex gap-2 pt-4">
                     <a
-                      href={`tel:${branch.phone}`}
+                      href={`tel:${branch.phone[0]}`}
                       className="flex-1"
                     >
                       <Button variant="outline" size="sm" className="w-full">
@@ -425,7 +425,7 @@ Message: ${formData.message}
                     </a>
                     
                     <a
-                      href={`https://wa.me/${branch.phone.replace(/[^\d]/g, '')}?text=Hi! I'd like to visit the ${branch.name}.`}
+                     href={`https://wa.me/${String(branch.phone[0]).replace(/[^\d]/g, '')}?text=Hi! I'd like to visit the ${branch.name}.`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex-1"
