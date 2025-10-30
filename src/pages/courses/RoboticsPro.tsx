@@ -66,7 +66,7 @@ const RoboticsPro = () => {
             <div className="relative">
               <img
                 src={roboticsImg}
-                alt="Robotics course at Hiran EduPro Academy"
+                alt="Robotics course at Hiran EduPro Academyy"
                 className="w-full h-96 object-cover rounded-2xl shadow-elegant"
               />
             </div>
