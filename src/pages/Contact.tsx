@@ -269,8 +269,8 @@ Message: ${formData.message}
                     </div>
                     <div>
                       <div className="font-semibold">Email Us</div>
-                      <a href="mailto:info@hiraneduproacademy.com" className="text-white/90 hover:text-white">
-                        info@hiraneduproacademy.com
+                      <a href="mailto:contact@hiraneduproacademy.in" className="text-white/90 hover:text-white">
+                        contact@hiraneduproacademy.in
                       </a>
                     </div>
                   </div>
