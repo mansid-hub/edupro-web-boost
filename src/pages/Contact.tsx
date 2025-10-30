@@ -480,6 +480,7 @@ Message: ${formData.message}
   <div className="w-full h-64 rounded-xl overflow-hidden shadow-md">
     <iframe 
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3743.134569801428!2d74.43814447389057!3d20.253253013964834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdc2552cf211283%3A0xaffa31f395666b3a!2sHiran&#39;s%20Proactive%20Abacus!5e0!3m2!1sen!2sin!4v1761814801837!5m2!1sen!2sin" 
+      className="w-full h-full bg-gray-200"
       style={{ border: 0 }}
       allowFullScreen={true}
       loading="lazy"
