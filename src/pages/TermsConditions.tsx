@@ -167,7 +167,7 @@ const TermsConditions = () => {
                   For questions about these Terms and Conditions, please contact us:
                 </p>
                 <div className="space-y-2">
-                  <p><strong>Email:</strong> info@hiranedupro.com</p>
+                  <p><strong>Email:</strong> contact@hiraneduproacademy.in</p>
                   <p><strong>Phone:</strong> +918208368355</p>
                   <p><strong>Address:</strong> First floor Hemsuraj kirana, Near Sundar Selection Aajad Road, Manmad, Maharashtra 423104</p>
                 </div>
