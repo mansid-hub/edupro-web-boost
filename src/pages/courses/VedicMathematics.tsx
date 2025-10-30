@@ -7,7 +7,7 @@ import vedicMathsImg from "@/assets/vedic-maths.jpg";
 
 const VedicMathematics = () => {
   const whatsappNumber = "+918208368355";
-  const whatsappMessage = "Hi! I'd like to know more about the Vedic Mathematics course at Hiran EduPro Academy.";
+  const whatsappMessage = "Hi! I'd like to know more about the Vedic Mathematics course at Hiran EduPro Academyy.";
 
   return (
     <main className="pt-16">
