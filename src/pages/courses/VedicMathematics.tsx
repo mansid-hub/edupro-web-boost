@@ -66,7 +66,7 @@ const VedicMathematics = () => {
             <div className="relative">
               <img
                 src={vedicMathsImg}
-                alt="Vedic Mathematics course at Hiran EduPro Academy"
+                alt="Vedic Mathematics course at Hiran EduPro Academyy"
                 className="w-full h-96 object-cover rounded-2xl shadow-elegant"
               />
             </div>
