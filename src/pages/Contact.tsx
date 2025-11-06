@@ -70,7 +70,7 @@ Message: ${formData.message}
       address: "Plot No. 14, Rambagh Colony, Bhujbal Farm Road, Behind Runghta Bela Vista, Govind Nagar, Nashik, Maharashtra 401203",
       phone: ["+91-8208368355", "+91-7499055108"],
       email: "contact@hiraneduproacademy.in",
-      timings: "Monday - Friday: 9:00 AM - 7:00 PM | Saturday - Sunday: 09:00 AM - 06:00 PM",
+      timings: "Office Hours: 9:00 AM - 2:00 PM | Class Time: Saturday - Sunday: 10:00 AM - 12:00 PM",
       incharge: "Mrs. Harshadaa Hiran",
       designation: "Branch Coordinator",
       specialties: ["Vedic Maths", "Robotics", "All Courses"],
@@ -80,7 +80,7 @@ Message: ${formData.message}
       address: "First floor Hemsuraj kirana, Near Sundar Selection Aajad Road, Manmad, Maharashtra 423104",
       phone: ["+91-8208368355", "+91-7499055108"],
       email: "contact@hiraneduproacademy.in",
-      timings: "Monday - Thursday: 9:00 AM - 7:00 PM | Saturday - Sunday: 10:00 AM - 3:00 PM | Friday: Holiday",
+      timings: "Office Hours: 10:00 AM - 6:00 PM | Class Time: Saturday - Sunday: 2 Hours",
       incharge: "Mrs. Harshadaa Hiran",
       designation: "Branch Coordinator",
       specialties: ["Abacus Training", "Mnemonic Science", "Phonics"],
@@ -281,8 +281,8 @@ Message: ${formData.message}
                     </div>
                     <div>
                       <div className="font-semibold">Office Hours</div>
-                      <div className="text-white/90">Mon-Fri: 8:45 AM - 2:00 PM</div>
-                      <div className="text-white/90">Sat-Sun: 10:00 AM - 3:00 PM</div>
+                      <div className="text-white/90">Govind Nagar: 9:00 AM - 2:00 PM</div>
+                      <div className="text-white/90">Manmad: 10:00 AM - 6:00 PM</div>
                     </div>
                   </div>
                   
