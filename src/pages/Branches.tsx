@@ -11,7 +11,7 @@ const Branches = () => {
       name: "Govind Nagar Branch",
       address: "Plot No. 14, Rambagh Colony, Bhujbal Farm Road, Behind Runghta Bela Vista, Govind Nagar, Nashik, Maharashtra 401203",
       phone:  ["+91-8208368355", "+91-7499055108"],
-      timings: "Monday - Friday: 9:00 AM - 7:00 PM | Saturday - Sunday: 09:00 AM - 06:00 PM",
+      timings: "Office Hours: 9:00 AM - 2:00 PM | Class Time: Saturday - Sunday: 10:00 AM - 12:00 PM",
       studentsCount: "200+",
       features: [
         "Modern smart classrooms",
@@ -30,7 +30,7 @@ const Branches = () => {
       name: "Manmad Branch", 
       address: "First floor Hemsuraj kirana, Near Sundar Selection Aajad Road, Manmad, Maharashtra 423104",
       phone:["+91-8208368355", "+91-7499055108"],
-      timings: "Monday - Thursday: 9:00 AM - 7:00 PM | Saturday - Sunday: 10:00 AM - 3:00 PM | Friday: Holiday",
+      timings: "Office Hours: 10:00 AM - 6:00 PM | Class Time: Saturday - Sunday: 2 Hours",
       studentsCount: "150+",
       features: [
         "Interactive smart boards",
