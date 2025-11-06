@@ -11,7 +11,7 @@ const Manmad = () => {
     address: "First floor Hemsuraj kirana, Near Sundar Selection Aajad Road, Manmad, Maharashtra 423104",
     phone: ["+91-8208368355", "+91-9321456780"],
     email: "contact@hiraneduproacademy.in",
-    timings: "Monday - Friday: 8:45 AM - 2:00 PM | Saturday - Sunday: 10:00 AM - 3:00 PM",
+    timings: "Office Hours: 10:00 AM - 6:00 PM | Class Time: Saturday - Sunday: 2 Hours",
     established: "2025",
     studentsCount: "150+",
     floorArea: "1800 sq ft",

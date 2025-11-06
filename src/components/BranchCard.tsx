@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 interface BranchCardProps {
   name: string;
   address: string;
-  phone: string;
+  phone: string | string[];
   timings: string;
   studentsCount: string;
   features: string[];

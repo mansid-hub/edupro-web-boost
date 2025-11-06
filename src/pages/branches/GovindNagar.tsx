@@ -11,7 +11,7 @@ const GovindNagar = () => {
     address: "Plot No. 14, Rambagh Colony, Bhujbal Farm Road, Behind Runghta Bela Vista, Govind Nagar, Nashik, Maharashtra 401203",
     phone: ["+91-8208368355", "+91-9321456780"],
     email: "contact@hiraneduproacademy.in",
-    timings: "Monday - Friday: 8:45 AM - 2:00 PM | Saturday - Sunday: 10:00 AM - 3:00 PM",
+    timings: "Office Hours: 9:00 AM - 2:00 PM | Class Time: Saturday - Sunday: 10:00 AM - 12:00 PM",
     established: "2024",
     studentsCount: "200+",
     floorArea: "2500 sq ft",
@@ -96,6 +96,9 @@ const GovindNagar = () => {
             <p className="text-xl text-white/90 mb-8">
               {branchData.tagline}
             </p>
+            <Badge className="mb-6 bg-white/20 text-white border-white/40">
+              Classes Start from 5th November 2025
+            </Badge>
             
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
               <div>
